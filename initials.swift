@@ -1,0 +1,13 @@
+//called philomath_girl
+print("HHH")
+print("H   H")
+print("  HHH.  ")
+print("      H  ")
+print("  H    H ")
+print("   HHH   ")
+print("HHH")
+print("H   H")
+print("  HHH.  ")
+print("      H  ")
+print("  H    H ")
+print("   HHH   ")
